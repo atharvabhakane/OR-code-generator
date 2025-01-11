@@ -1,4 +1,4 @@
-# OR-code-generator
+# QR-code-generator
 A simple web-based tool to create QR codes instantly from text or URLs. Perfect for sharing information in a scannable format.
 
 **Features**
